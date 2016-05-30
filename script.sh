@@ -4,3 +4,4 @@ for datafile in *[AB].txt;
  echo $datafile
  bash goostats "${datafile}" stats-"${datafile}";
 done
+#hahahahhahahahahahaha
