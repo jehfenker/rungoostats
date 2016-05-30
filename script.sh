@@ -5,3 +5,6 @@ for datafile in *[AB].txt;
  bash goostats "${datafile}" stats-"${datafile}";
 done
 #hahahahhahahahahahaha
+
+##hello!
+###test2
